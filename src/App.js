@@ -6,7 +6,7 @@ function App() {
   return (
     <BrowserRouter>
     <Routes>
-      <Route path='/' element={<AdviceChooser />} />
+      <Route path='/React-Advice-Slip-API-Demo' element={<AdviceChooser />} />
     </Routes>
     </BrowserRouter>
     

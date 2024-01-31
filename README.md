@@ -17,8 +17,8 @@ A React app to demonstrate fetching advice based on user input using the [Advice
 ### Installation
 
 ```bash
-git clone https://yourprojectrepository.com
-cd your-project-name
+git clone git@github.com:ChamikaKarunarathna/React-Advice-Slip-API-Demo.git
+cd React-Advice-Slip-API-Demo
 npm install
 npm start
 ```
